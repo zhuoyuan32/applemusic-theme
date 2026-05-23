@@ -18,7 +18,7 @@
 ### 方式二：GitHub 手动下载安装
 
 1. 从 GitHub 下载本项目源码（`Code -> Download ZIP`）
-2. 解压后找到目录：`plugins/extensions/apple-music-theme`
+2. 解压后找到目录：`plugins/extensions/applemusic-theme`
 3. 安装方式二选一：
 4. 复制文件夹到 MoeKoe 插件目录（`plugins/extensions`），然后在插件管理中刷新
 5. 或将该文件夹打包为 zip，在 `设置 -> 插件管理 -> 安装插件` 中选择 zip 安装
